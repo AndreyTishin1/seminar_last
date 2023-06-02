@@ -60,8 +60,7 @@ necessitatibus magni provident non saepe sequi?
 после текста.
 ~~Зачеркнуто~~
 
-
-
 ## Горизонтальная черта 
 
-qwrggfhdtujuykfildryu
+`hr` создается тремя звездочками или тремя дефисами.
+***
